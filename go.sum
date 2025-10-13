@@ -1850,8 +1850,8 @@ github.com/smartystreets/goconvey v1.7.2/go.mod h1:Vw0tHAZW6lzCRk3xgdin6fKYcG+G3
 github.com/smartystreets/goconvey v1.8.1 h1:qGjIddxOk4grTu9JPOU31tVfq3cNdBlNa5sSznIX1xY=
 github.com/smartystreets/goconvey v1.8.1/go.mod h1:+/u4qLyY6x1jReYOp7GOM2FSt8aP9CzCZL03bI28W60=
 github.com/soheilhy/cmux v0.1.4/go.mod h1:IM3LyeVVIOuxMH7sFAkER9+bJ4dT7Ms6E4xg4kGIyLM=
-github.com/sonr-io/common v0.0.0-20251010142707-ab6d2fe7e9c9 h1:2Tu6piK6EKWKcJP5pvu4IPd88q/oUD1dIKl/8GpHQAA=
-github.com/sonr-io/common v0.0.0-20251010142707-ab6d2fe7e9c9/go.mod h1:Tu5ij87FPhPCVe8jfNc8CLJHbzZ8YEjuhxNZfmPp1r0=
+github.com/sonr-io/common v1.0.0 h1:LJ9HvJOkH9cRy/nsLSFNuDnUFAI2MaXmp2besKBILtk=
+github.com/sonr-io/common v1.0.0/go.mod h1:Tu5ij87FPhPCVe8jfNc8CLJHbzZ8YEjuhxNZfmPp1r0=
 github.com/sonr-io/crypto v1.0.1 h1:pTsWbdvs8I8zTMalfCK7/ecCvFkBw9VIb/bKKGwMWGw=
 github.com/sonr-io/crypto v1.0.1/go.mod h1:f6YZo/FfbUQEEN8TMPAeFI8BOljbDNrui3IXuIzCa/E=
 github.com/sony/gobreaker v0.4.1/go.mod h1:ZKptC7FHNvhBz7dN2LGjPVBz2sZJmc0/PkyDJOjmxWY=
