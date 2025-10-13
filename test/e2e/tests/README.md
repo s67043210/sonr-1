@@ -50,3 +50,4 @@ go test github.com/sonr-io/sonr/test/e2e/tests -v
 - Cosmos SDK v0.50.14
 - Internal WebAuthn libraries
 - testify assertion library
+<!-- Auto-update: 2025-10-14T05:06:09.749258 -->
