@@ -104,3 +104,5 @@ networks:
 volumes:
   caddy-config:
   caddy-data:
+
+# Update: 2025-10-20
